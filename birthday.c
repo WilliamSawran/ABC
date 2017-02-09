@@ -17,8 +17,8 @@
 *********************************************************************/
 
 /*** Note: Please fill in the incomplete functions. These will be indicated in both the
-           function prototype and their empty definition.
-***/
+           function prototype and their empty definition.***/
+
 
 #include <stdio.h>
 #include <time.h>
